@@ -12,7 +12,7 @@ Whilst building this application I learned just how versitle and powerful both '
 
 To use this application you need to open the following link in your browser - 
 
-https://eddiedpayne.github.io/Work-Day-Schedule/
+https://eddiedpayne.github.io/Weekday-Planner-Project/
 
  ## Usage 
 
