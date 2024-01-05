@@ -22,7 +22,7 @@ https://eddiedpayne.github.io/Work-Day-Schedule/
 
 
 
- ![alt text](Project/Assets/img/Screenshot-01.png)
+ ![alt text](Assets/img/Screenshot-01.png)
 
 
 
@@ -30,7 +30,7 @@ https://eddiedpayne.github.io/Work-Day-Schedule/
 
 
 
-  ![alt text](Project/Assets/img/Screenshot-02.png)
+  ![alt text](Assets/img/Screenshot-02.png)
 
 
 
@@ -38,7 +38,7 @@ https://eddiedpayne.github.io/Work-Day-Schedule/
 
 
 
-   ![alt text](Project/Assets/img/Screenshot-03.png)
+   ![alt text](Assets/img/Screenshot-03.png)
 
 
 
@@ -46,7 +46,7 @@ https://eddiedpayne.github.io/Work-Day-Schedule/
 
 
 
-![alt text](Project/Assets/img/Screenshot-04.png)
+![alt text](Assets/img/Screenshot-04.png)
 
 
 
