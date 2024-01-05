@@ -66,9 +66,9 @@ hourStatus();
   // Function that saves new appointment input to local storage
   function saveTask() {
 
-    // display: block to show saved messgae
+    // display: block to show saved message.
 
-    // use setTimeout() to delaty hiding the saved message
+    // use setTimeout() to delay hiding the saved message.
 
 
     var hourKey = $(this).parent().attr('id'); // finds the parent #id of the <button>
