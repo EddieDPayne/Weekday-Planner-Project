@@ -18,7 +18,7 @@ $(function () {
   function hourStatus() {
   var currentTime = dayjs().hour();
   $('.time-block').each(function(){
-    var rowHour = parseInt($(this).attr('id').split('-')[1]);
+    var rowHour = parseInt($(this).attr('id').split('-')[1]); // parseInt takes the string value and turns into a 'number'
     // console.log(rowHour);
     if (rowHour < currentTime) { // if the hour of the row is less than now, display 'past'
       $(this).addClass('past');
@@ -45,10 +45,16 @@ $(function () {
   // Function that saves new appointment input to local storage
   function saveTask() {
 
-    // display: block to show saved message.
-
-
-    // use setTimeout() to delay hiding the saved message.
+    // Function to display 'saved to local storage' 
+$(document).ready(function() {
+  var savedMessage = $('.saved'); // 'id' of <p> I want to display saved to a variable
+  setTimeout(function() { // setTimeout() funtion
+    savedMessage.show(); // '.show' displays the message on the 'click' event
+    setTimeout(function() {
+      savedMessage.hide(); // '.hide' removes the message after set ammount of time, in this case 3000ms.
+    }, 3000);
+  }, 100); // Shows the message after 100ms. This can be adjusted to whatever interval I choose.
+});
 
 
     var hourKey = $(this).parent().attr('id'); // finds the parent #id of the <button>
