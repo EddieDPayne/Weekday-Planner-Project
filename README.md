@@ -63,6 +63,6 @@ https://eddiedpayne.github.io/Weekday-Planner-Project/
 
 This Weekday Schedule Planner offers the ability to its users to save entries between the hours of 9:00am and 5:00pm.
 
-It's clean and intuitive UI allows users to efficiently oraginise their daily tasks and events for the day.
+It's clean and intuitive UI allows users to efficiently organise their daily tasks and events for the day.
 
-This application provides a convienent overview of the day allowing the user to manage their precious time and plan ahead accordingly.
+This application provides a convienent overview of the day allowing the user to effectively plan and manage their time.
