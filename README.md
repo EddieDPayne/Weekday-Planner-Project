@@ -6,7 +6,7 @@ A live schedule of your daily appointments or tasks.
 
 This application is a Weekday Schedule Planner. In real-time it lets the user enter and save important appointments, daily To-Do's and deadlines. It keeps track of all past, present and future inputs and displays them in a very user friendly way. Utilising localStorage methods so that even after the user ends the session in the browser the entries appear when you next load the application.
 
-Whilst building this application I learned just how versitle and powerful both 'JQuery' and 'Bootstrap' Libraries can be, the importance of correct localStorage use as well as the usefulness of dayjs() methods. It has been an enjoyable experience to be apart of this project and I myself plan to use it daily in the future.
+Whilst building this application I have learnt just how versitle and powerful both the 'JQuery' and 'Bootstrap' libraries can be, the importance of the correct use of localStorage as well as the utility of dayjs() methods. I have enjoyed working on this project as it has allowed me to utilize my skills and further my programming knowledge.
 
 ## Installation 
 
